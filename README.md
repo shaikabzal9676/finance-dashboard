@@ -19,6 +19,9 @@ https://github.com/shaikabzal9676/finance-dashboard
 ### Viewer Role
 ![Viewer](./public/screenshots/viewer.png)
 
+---
+
+
 ## About the Project
 
 This is a simple finance dashboard built as part of a frontend assignment.  
