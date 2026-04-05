@@ -8,6 +8,17 @@ https://github.com/shaikabzal9676/finance-dashboard
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](./public/screenshots/Dashboard.png)
+
+### Transactions
+![Transactions](./public/screenshots/Transactions.png)
+
+### Viewer Role
+![Viewer](./public/screenshots/viewer.png)
+
 ## About the Project
 
 This is a simple finance dashboard built as part of a frontend assignment.  
