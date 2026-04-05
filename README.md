@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc0edc50-af18-46f3-8141-33e92b6579d6" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06d6fd48-7555-42db-a257-89b89515f6a9" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/093cac94-27fb-4774-832a-9f5427b0087f" /># Finance Dashboard UI
+# Finance Dashboard UI
 
 Live Demo:  
 https://finance-dashboard-orpin-omega.vercel.app/
